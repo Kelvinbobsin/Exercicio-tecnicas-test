@@ -1,1 +1,1 @@
-# Exercicio-tecnicas-test
+# Técnicas de testes
