@@ -1,0 +1,1 @@
+# Exercicio-tecnicas-test
